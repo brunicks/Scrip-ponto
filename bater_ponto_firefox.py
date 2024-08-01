@@ -79,7 +79,7 @@ def bater_ponto_f(url, username, password):
 
     # Localiza e clica no botão de bater ponto
     try:
-        ponto_button = driver.find_element(By.ID, "BtnRegistr")  
+        ponto_button = driver.find_element(By.ID, "BtnRegistrar")  
         ponto_button.click()
         print("Botão de bater ponto clicado.")
     except Exception as e:
