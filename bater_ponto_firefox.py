@@ -93,7 +93,7 @@ def bater_ponto_f(url, username, password):
     print("Driver do Firefox fechado.")
 
 # Exemplo de uso
-url = 'https://celepar.bennercloud.com.br/RH/rh/e/Colaborador/Home/home.aspx?i=HOME&m=QUI_HOME'
-username = 'est.bmesquita' 
-password = 'Ma009bruno' 
+url = 'url.ponto.com'
+username = 'usuario' 
+password = 'senha' 
 bater_ponto_f(url, username, password)
