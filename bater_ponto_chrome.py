@@ -80,7 +80,7 @@ def bater_ponto_c(url, username, password):
     print("Driver do Chrome fechado.")
 
 # Exemplo de uso
-url = 'https://celepar.bennercloud.com.br/RH/rh/e/Colaborador/Home/home.aspx?i=HOME&m=QUI_HOME'
-username = 'est.bmesquita'  # Substitua pelo seu nome de usuário
-password = 'Ma009bruno'  # Substitua pela sua senha
+url = 'url.ponto.com'
+username = 'usuario'  # Substitua pelo seu nome de usuário
+password = 'senha'  # Substitua pela sua senha
 bater_ponto_c(url, username, password)
