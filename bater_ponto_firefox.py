@@ -93,7 +93,7 @@ def bater_ponto_f(url, username, password):
     print("Driver do Firefox fechado.")
 
 # Exemplo de uso
-url = 'url.ponto.com'
-username = 'usuario' 
-password = 'senha' 
+url = 'url.ponto.com' # Substitua pela URL do ponto    
+username = 'usuario' # Substitua pelo usuario do sistema ponto    
+password = 'senha' # Susbtitua pela sua senha. Recomendo a utilização de .env
 bater_ponto_f(url, username, password)
